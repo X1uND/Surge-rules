@@ -1,0 +1,48 @@
+# ====== 国内主要银行通配直连 ======
+
+# 中国银行
+DOMAIN-SUFFIX,boc.cn,DIRECT
+DOMAIN-SUFFIX,bankofchina.com,DIRECT
+DOMAIN-SUFFIX,bank-of-china.com,DIRECT
+
+# 北京银行
+DOMAIN-SUFFIX,bankofbeijing.com.cn,DIRECT
+
+# 工商银行
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+DOMAIN-SUFFIX,95588.com,DIRECT
+DOMAIN-SUFFIX,icbc-ltd.com,DIRECT
+
+# 建设银行
+DOMAIN-SUFFIX,ccb.com,DIRECT
+DOMAIN-SUFFIX,95533.cn,DIRECT
+DOMAIN-SUFFIX,ccb-life.com.cn,DIRECT
+
+# 华夏银行
+DOMAIN-SUFFIX,hxb.com.cn,DIRECT
+DOMAIN-SUFFIX,95577.com,DIRECT
+
+# 平安银行
+DOMAIN-SUFFIX,pingan.com,DIRECT
+DOMAIN-SUFFIX,pingan.com.cn,DIRECT
+DOMAIN-SUFFIX,95511.com,DIRECT
+
+# 招商银行
+DOMAIN-SUFFIX,cmbchina.com,DIRECT
+DOMAIN-SUFFIX,cmbchina.com.cn,DIRECT
+DOMAIN-SUFFIX,95555.com,DIRECT
+
+# 邮政银行（中国邮政储蓄银行）
+DOMAIN-SUFFIX,psbc.com,DIRECT
+DOMAIN-SUFFIX,psbc.com.cn,DIRECT
+DOMAIN-SUFFIX,95580.com,DIRECT
+
+# 农业银行
+DOMAIN-SUFFIX,abchina.com,DIRECT
+DOMAIN-SUFFIX,abchina.com.cn,DIRECT
+DOMAIN-SUFFIX,95599.cn,DIRECT
+
+# 光大银行
+DOMAIN-SUFFIX,cebchina.com,DIRECT
+DOMAIN-SUFFIX,cebbank.com,DIRECT
+DOMAIN-SUFFIX,95595.com,DIRECT
