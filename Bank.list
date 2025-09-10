@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,cmbchina.com,DIRECT
 DOMAIN-SUFFIX,cmbchina.com.cn,DIRECT
 DOMAIN-SUFFIX,95555.com,DIRECT
 
-# 邮政银行（中国邮政储蓄银行）
+# 邮政银行
 DOMAIN-SUFFIX,psbc.com,DIRECT
 DOMAIN-SUFFIX,psbc.com.cn,DIRECT
 DOMAIN-SUFFIX,95580.com,DIRECT
@@ -57,11 +57,19 @@ DOMAIN-SUFFIX,ecitic.com,DIRECT
 DOMAIN-SUFFIX,citicbank.com,DIRECT
 DOMAIN-SUFFIX,95558.com,DIRECT
 
-# ===== 支付宝直连 =====
+# ===== 支付宝支付核心 + 风控 + 国际支付直连 =====
 DOMAIN-SUFFIX,alipay.com,DIRECT
 DOMAIN-SUFFIX,alipay.net,DIRECT
-DOMAIN-SUFFIX,alipayobjects.com,DIRECT
 DOMAIN-SUFFIX,alipay.cn,DIRECT
+DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+DOMAIN-SUFFIX,mapi.alipay.com,DIRECT
+DOMAIN-SUFFIX,gw.alipay.com,DIRECT
+DOMAIN-SUFFIX,alipaylog.com,DIRECT
+DOMAIN-SUFFIX,alipaymo.com,DIRECT
+DOMAIN-SUFFIX,alipaydns.com,DIRECT
+DOMAIN-SUFFIX,alipay.hk,DIRECT
+DOMAIN-SUFFIX,alipay.com.cn,DIRECT
+DOMAIN-SUFFIX,alipayplus.com,DIRECT
 
 # ===== 京东支付 / 京东金融 =====
 DOMAIN-SUFFIX,jdpay.com,DIRECT
