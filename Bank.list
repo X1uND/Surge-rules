@@ -1,4 +1,4 @@
-# ====== 国内主要银行通配直连 ======
+# ===== 国内主要银行通配直连 =====
 
 # 中国银行
 DOMAIN-SUFFIX,boc.cn,DIRECT
@@ -47,17 +47,31 @@ DOMAIN-SUFFIX,cebchina.com,DIRECT
 DOMAIN-SUFFIX,cebbank.com,DIRECT
 DOMAIN-SUFFIX,95595.com,DIRECT
 
-# ====== 国内主要支付类App直连 ======
+# 交通银行
+DOMAIN-SUFFIX,bocom.cn,DIRECT
+DOMAIN-SUFFIX,bankcomm.com,DIRECT
+DOMAIN-SUFFIX,95559.com.cn,DIRECT
 
-# 京东支付 / 京东金融
+# 中信银行
+DOMAIN-SUFFIX,ecitic.com,DIRECT
+DOMAIN-SUFFIX,citicbank.com,DIRECT
+DOMAIN-SUFFIX,95558.com,DIRECT
+
+# ===== 支付宝直连 =====
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,alipay.net,DIRECT
+DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+DOMAIN-SUFFIX,alipay.cn,DIRECT
+
+# ===== 京东支付 / 京东金融 =====
 DOMAIN-SUFFIX,jdpay.com,DIRECT
 DOMAIN-SUFFIX,jdpays.com,DIRECT
 DOMAIN-SUFFIX,jdpaycert.com,DIRECT
 
-# 抖音支付
+# ===== 抖音支付 =====
 DOMAIN-SUFFIX,douyinpay.com,DIRECT
 DOMAIN-SUFFIX,dypay.com,DIRECT
 
-# 快手支付
+# ===== 快手支付 =====
 DOMAIN-SUFFIX,kspay.com,DIRECT
 DOMAIN-SUFFIX,kuaishoupay.com,DIRECT
