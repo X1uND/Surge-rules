@@ -46,3 +46,18 @@ DOMAIN-SUFFIX,95599.cn,DIRECT
 DOMAIN-SUFFIX,cebchina.com,DIRECT
 DOMAIN-SUFFIX,cebbank.com,DIRECT
 DOMAIN-SUFFIX,95595.com,DIRECT
+
+# ====== 国内主要支付类App直连 ======
+
+# 京东支付 / 京东金融
+DOMAIN-SUFFIX,jdpay.com,DIRECT
+DOMAIN-SUFFIX,jdpays.com,DIRECT
+DOMAIN-SUFFIX,jdpaycert.com,DIRECT
+
+# 抖音支付
+DOMAIN-SUFFIX,douyinpay.com,DIRECT
+DOMAIN-SUFFIX,dypay.com,DIRECT
+
+# 快手支付
+DOMAIN-SUFFIX,kspay.com,DIRECT
+DOMAIN-SUFFIX,kuaishoupay.com,DIRECT
