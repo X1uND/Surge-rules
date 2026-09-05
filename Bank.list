@@ -1,92 +1,55 @@
 # ====== 国内主要银行通配直连 ======
 
-# 中国银行
-DOMAIN-SUFFIX,boc.cn,DIRECT
-DOMAIN-SUFFIX,bankofchina.com,DIRECT
-DOMAIN-SUFFIX,bank-of-china.com,DIRECT
+# 中国工商银行
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+DOMAIN-SUFFIX,95588.com,DIRECT
 
 # 北京银行
 DOMAIN-SUFFIX,bankofbeijing.com.cn,DIRECT
-
-# 工商银行
-DOMAIN-SUFFIX,icbc.com.cn,DIRECT
-DOMAIN-SUFFIX,95588.com,DIRECT
-DOMAIN-SUFFIX,icbc-ltd.com,DIRECT
-
-# 建设银行
-DOMAIN-SUFFIX,ccb.com,DIRECT
-DOMAIN-SUFFIX,95533.cn,DIRECT
-DOMAIN-SUFFIX,ccb-life.com.cn,DIRECT
-
-# 华夏银行
-DOMAIN-SUFFIX,hxb.com.cn,DIRECT
-DOMAIN-SUFFIX,95577.com,DIRECT
-
-# 平安银行
-DOMAIN-SUFFIX,pingan.com,DIRECT
-DOMAIN-SUFFIX,pingan.com.cn,DIRECT
-DOMAIN-SUFFIX,95511.com,DIRECT
 
 # 招商银行
 DOMAIN-SUFFIX,cmbchina.com,DIRECT
 DOMAIN-SUFFIX,cmbchina.com.cn,DIRECT
 DOMAIN-SUFFIX,95555.com,DIRECT
 
-# 邮政银行
-DOMAIN-SUFFIX,psbc.com,DIRECT
-DOMAIN-SUFFIX,psbc.com.cn,DIRECT
-DOMAIN-SUFFIX,95580.com,DIRECT
+# 华夏银行
+DOMAIN-SUFFIX,hxb.com.cn,DIRECT
+DOMAIN-SUFFIX,95577.com,DIRECT
+DOMAIN-SUFFIX,creditcard.hxb.com.cn,DIRECT
 
-# 农业银行
-DOMAIN-SUFFIX,abchina.com,DIRECT
-DOMAIN-SUFFIX,abchina.com.cn,DIRECT
-DOMAIN-SUFFIX,95599.cn,DIRECT
+# 中国银行
+DOMAIN-SUFFIX,boc.cn,DIRECT
+DOMAIN-SUFFIX,bankofchina.com,DIRECT
+DOMAIN-SUFFIX,bank-of-china.com,DIRECT
 
-# 光大银行
-DOMAIN-SUFFIX,cebchina.com,DIRECT
-DOMAIN-SUFFIX,cebbank.com,DIRECT
-DOMAIN-SUFFIX,95595.com,DIRECT
+# 兴业银行
+DOMAIN-SUFFIX,cib.com.cn,DIRECT
+
+# 中国建设银行
+DOMAIN-SUFFIX,ccb.com,DIRECT
+DOMAIN-SUFFIX,95533.cn,DIRECT
 
 # 交通银行
 DOMAIN-SUFFIX,bocom.cn,DIRECT
 DOMAIN-SUFFIX,bankcomm.com,DIRECT
 DOMAIN-SUFFIX,95559.com.cn,DIRECT
 
+# 上海浦东发展银行
+DOMAIN-SUFFIX,spdb.com.cn,DIRECT
+DOMAIN-SUFFIX,95528.cn,DIRECT
+
+# 中国民生银行
+DOMAIN-SUFFIX,cmbc.com.cn,DIRECT
+
 # 中信银行
 DOMAIN-SUFFIX,ecitic.com,DIRECT
 DOMAIN-SUFFIX,citicbank.com,DIRECT
 DOMAIN-SUFFIX,95558.com,DIRECT
 
+# 中国光大银行
+DOMAIN-SUFFIX,cebchina.com,DIRECT
+DOMAIN-SUFFIX,cebbank.com,DIRECT
+DOMAIN-SUFFIX,95595.com,DIRECT
 
-# ====== 支付宝（核心 + 国际支付） ======
-DOMAIN-SUFFIX,alipay.com,DIRECT
-DOMAIN-SUFFIX,alipay.net,DIRECT
-DOMAIN-SUFFIX,alipay.cn,DIRECT
-DOMAIN-SUFFIX,alipayobjects.com,DIRECT
-DOMAIN-SUFFIX,mapi.alipay.com,DIRECT
-DOMAIN-SUFFIX,gw.alipay.com,DIRECT
-DOMAIN-SUFFIX,alipaylog.com,DIRECT
-DOMAIN-SUFFIX,alipaymo.com,DIRECT
-DOMAIN-SUFFIX,alipaydns.com,DIRECT
-DOMAIN-SUFFIX,alipay.hk,DIRECT
-DOMAIN-SUFFIX,alipay.com.cn,DIRECT
-DOMAIN-SUFFIX,alipayplus.com,DIRECT
-
-# ====== 京东支付 / 京东金融 ======
-DOMAIN-SUFFIX,jdpay.com,DIRECT
-DOMAIN-SUFFIX,jdpays.com,DIRECT
-DOMAIN-SUFFIX,jdpaycert.com,DIRECT
-
-# ====== 抖音支付 ======
-DOMAIN-SUFFIX,douyinpay.com,DIRECT
-DOMAIN-SUFFIX,dypay.com,DIRECT
-
-# ====== 快手支付 ======
-DOMAIN-SUFFIX,kspay.com,DIRECT
-DOMAIN-SUFFIX,kuaishoupay.com,DIRECT
-
-# ====== 微信支付（核心） ======
-DOMAIN-SUFFIX,pay.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,wx.tenpay.com,DIRECT
-DOMAIN-SUFFIX,api.mch.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+# 中国邮政储蓄银行
+DOMAIN-SUFFIX,psbc.com,DIRECT
