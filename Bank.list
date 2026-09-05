@@ -1,11 +1,16 @@
 # ====== 国内主要银行通配直连 ======
 
-# 中国工商银行
-DOMAIN-SUFFIX,icbc.com.cn,DIRECT
-DOMAIN-SUFFIX,95588.com,DIRECT
+# 中国银行
+DOMAIN-SUFFIX,boc.cn,DIRECT
+DOMAIN-SUFFIX,bankofchina.com,DIRECT
+DOMAIN-SUFFIX,bank-of-china.com,DIRECT
 
 # 北京银行
 DOMAIN-SUFFIX,bankofbeijing.com.cn,DIRECT
+
+# 中国工商银行
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+DOMAIN-SUFFIX,95588.com,DIRECT
 
 # 招商银行
 DOMAIN-SUFFIX,cmbchina.com,DIRECT
@@ -15,12 +20,6 @@ DOMAIN-SUFFIX,95555.com,DIRECT
 # 华夏银行
 DOMAIN-SUFFIX,hxb.com.cn,DIRECT
 DOMAIN-SUFFIX,95577.com,DIRECT
-DOMAIN-SUFFIX,creditcard.hxb.com.cn,DIRECT
-
-# 中国银行
-DOMAIN-SUFFIX,boc.cn,DIRECT
-DOMAIN-SUFFIX,bankofchina.com,DIRECT
-DOMAIN-SUFFIX,bank-of-china.com,DIRECT
 
 # 兴业银行
 DOMAIN-SUFFIX,cib.com.cn,DIRECT
@@ -30,8 +29,8 @@ DOMAIN-SUFFIX,ccb.com,DIRECT
 DOMAIN-SUFFIX,95533.cn,DIRECT
 
 # 交通银行
-DOMAIN-SUFFIX,bocom.cn,DIRECT
 DOMAIN-SUFFIX,bankcomm.com,DIRECT
+DOMAIN-SUFFIX,bocom.cn,DIRECT
 DOMAIN-SUFFIX,95559.com.cn,DIRECT
 
 # 上海浦东发展银行
@@ -44,12 +43,16 @@ DOMAIN-SUFFIX,cmbc.com.cn,DIRECT
 # 中信银行
 DOMAIN-SUFFIX,ecitic.com,DIRECT
 DOMAIN-SUFFIX,citicbank.com,DIRECT
-DOMAIN-SUFFIX,95558.com,DIRECT
 
 # 中国光大银行
-DOMAIN-SUFFIX,cebchina.com,DIRECT
 DOMAIN-SUFFIX,cebbank.com,DIRECT
-DOMAIN-SUFFIX,95595.com,DIRECT
+DOMAIN-SUFFIX,cebchina.com,DIRECT
 
 # 中国邮政储蓄银行
 DOMAIN-SUFFIX,psbc.com,DIRECT
+DOMAIN-SUFFIX,psbc.com.cn,DIRECT
+
+# 中国农业银行
+DOMAIN-SUFFIX,abchina.com.cn,DIRECT
+DOMAIN-SUFFIX,abchina.com,DIRECT
+DOMAIN-SUFFIX,95599.cn,DIRECT
