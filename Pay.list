@@ -1,13 +1,14 @@
-# Payment
+# ====== Pay ======
+
 # > Alipay
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayplus.com
 
-# > JD Pay
+# > JD Finance / JD Pay
+DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,baitiao.com
 
 # > WeChat Pay
-DOMAIN-SUFFIX,pay.weixin.qq.com
-DOMAIN-SUFFIX,wx.tenpay.com
-DOMAIN-SUFFIX,api.mch.weixin.qq.com
-DOMAIN-SUFFIX,api2.mch.weixin.qq.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,weixin.qq.com
