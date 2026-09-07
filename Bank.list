@@ -1,9 +1,8 @@
-# ====== 国内主要银行通配 ======
+# ====== 中国大陆主要银行 DIRECT ======
 
 # 中国银行
 DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bankofchina.com
-DOMAIN-SUFFIX,bank-of-china.com
 
 # 北京银行
 DOMAIN-SUFFIX,bankofbeijing.com.cn
@@ -14,8 +13,6 @@ DOMAIN-SUFFIX,95588.com
 
 # 招商银行
 DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,cmbchina.com.cn
-DOMAIN-SUFFIX,95555.com
 
 # 华夏银行
 DOMAIN-SUFFIX,hxb.com.cn
@@ -26,7 +23,6 @@ DOMAIN-SUFFIX,cib.com.cn
 
 # 中国建设银行
 DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,95533.cn
 
 # 交通银行
 DOMAIN-SUFFIX,bankcomm.com
@@ -35,14 +31,13 @@ DOMAIN-SUFFIX,95559.com.cn
 
 # 上海浦东发展银行
 DOMAIN-SUFFIX,spdb.com.cn
-DOMAIN-SUFFIX,95528.cn
 
 # 中国民生银行
 DOMAIN-SUFFIX,cmbc.com.cn
 
 # 中信银行
-DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,ecitic.com
 
 # 中国光大银行
 DOMAIN-SUFFIX,cebbank.com
@@ -54,5 +49,3 @@ DOMAIN-SUFFIX,psbc.com.cn
 
 # 中国农业银行
 DOMAIN-SUFFIX,abchina.com.cn
-DOMAIN-SUFFIX,abchina.com
-DOMAIN-SUFFIX,95599.cn
