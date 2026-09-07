@@ -1,5 +1,6 @@
-# ====== iFAST 中国大陆（奕丰）======
+# ====== iFAST 中国大陆 / Global ======
 
+# iFAST 中国大陆
 DOMAIN-SUFFIX,ifastfinancial.com.cn
 DOMAIN-SUFFIX,ifastps.com.cn
 
@@ -8,6 +9,17 @@ DOMAIN-SUFFIX,ifastnetwork.com
 
 # iFAST Corporation
 DOMAIN-SUFFIX,ifastcorp.com
+
+# FSM / FSM Global
+DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,fsmone.com
+
+# iFAST Global Markets
+DOMAIN-SUFFIX,ifastgm.com
+DOMAIN-SUFFIX,ifastgm.com.sg
+
+# iFAST Global Bank
+DOMAIN-SUFFIX,ifastgb.com
 
 
 # ====== Wise ======
