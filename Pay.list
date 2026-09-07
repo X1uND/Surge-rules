@@ -3,8 +3,11 @@
 # > Alipay
 DOMAIN-SUFFIX,alipay.com
 
-# > JD Pay / JD Finance Payment
+# > JD Pay
 DOMAIN-SUFFIX,jdpay.com
 
 # > WeChat Pay
 DOMAIN-SUFFIX,tenpay.com
+
+# > UnionPay / Yunshanfu
+DOMAIN-SUFFIX,95516.com
