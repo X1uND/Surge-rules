@@ -1,8 +1,8 @@
 # ====== iFAST 中国大陆 / Global ======
 
 # iFAST 中国大陆
-DOMAIN-SUFFIX,ifastfinancial.com.cn
 DOMAIN-SUFFIX,ifastps.com.cn
+DOMAIN-SUFFIX,ifastfinancial.com.cn
 
 # iFAST Core / Central
 DOMAIN-SUFFIX,ifastnetwork.com
@@ -11,8 +11,9 @@ DOMAIN-SUFFIX,ifastnetwork.com
 DOMAIN-SUFFIX,ifastcorp.com
 
 # FSM / FSM Global
-DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,fsm.global
 DOMAIN-SUFFIX,fsmone.com
+DOMAIN-SUFFIX,fundsupermart.com
 
 # iFAST Global Markets
 DOMAIN-SUFFIX,ifastgm.com
@@ -23,6 +24,5 @@ DOMAIN-SUFFIX,ifastgb.com
 
 
 # ====== Wise ======
-
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,transferwise.com
