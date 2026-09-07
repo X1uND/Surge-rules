@@ -16,13 +16,14 @@ DOMAIN-SUFFIX,cmbchina.com
 
 # 华夏银行
 DOMAIN-SUFFIX,hxb.com.cn
-DOMAIN-SUFFIX,95577.com
+DOMAIN-SUFFIX,95577.com.cn
 
 # 兴业银行
 DOMAIN-SUFFIX,cib.com.cn
 
 # 中国建设银行
 DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccb.cn
 
 # 交通银行
 DOMAIN-SUFFIX,bankcomm.com
@@ -31,21 +32,20 @@ DOMAIN-SUFFIX,95559.com.cn
 
 # 上海浦东发展银行
 DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,95528.cn
 
 # 中国民生银行
 DOMAIN-SUFFIX,cmbc.com.cn
 
 # 中信银行
 DOMAIN-SUFFIX,citicbank.com
-DOMAIN-SUFFIX,ecitic.com
 
 # 中国光大银行
 DOMAIN-SUFFIX,cebbank.com
-DOMAIN-SUFFIX,cebchina.com
 
 # 中国邮政储蓄银行
 DOMAIN-SUFFIX,psbc.com
-DOMAIN-SUFFIX,psbc.com.cn
 
 # 中国农业银行
+DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
